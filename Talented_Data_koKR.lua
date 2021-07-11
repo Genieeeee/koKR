@@ -116,7 +116,7 @@ Talented:Print("Localisation for talent tooltips is missing for this language. I
 	tree.talents[9].info.name = "생존의 대가"
 	tree.talents[9].info.tips = "최대 생명력이 %d%%만큼 증가합니다."
 	tree.talents[10].info.name = "공격 저지"
-	tree.talents[10].info.tips = "즉시시전 / 5분 후 재사용 가능\r\n\r\n활성화되면 10초 동안 회피와 무기 막기 확률이 25%%만큼 증가합니다."
+	tree.talents[10].info.tips = "즉시시전 / 5분 후 재사용 가능\r\n\r\n활성화되면 10초 동안 회피와 무기 막기 확률이 25%만큼 증가합니다."
 	tree.talents[11].info.name = "덫 숙련"
 	tree.talents[11].info.tips = "적이 덫 효과에 저항할 확률이 %d%%만큼 감소합니다."
 	tree.talents[12].info.name = "침착함"
