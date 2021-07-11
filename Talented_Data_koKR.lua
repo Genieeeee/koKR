@@ -221,7 +221,7 @@ end
 	tree.talents[11].info.name = "격노"
 	tree.talents[11].info.tips =  "치명타 공격을 받았을 때 12초 동안 최대 다음 12회의 근접 공격에 %d%%의 근접 공격력 보너스를 받게 됩니다."
 	tree.talents[12].info.name = "격돌 연마"
-	tree.talents[12].info.tips =  "격돌의 시전 시간이 %1.f초만큼 단축됩니다."
+	tree.talents[12].info.tips =  "격돌의 시전 시간이 %.1f초만큼 단축됩니다."
 	tree.talents[13].info.name = "휩쓸기 일격"
 	tree.talents[13].info.tips =  "분노 30 / 즉시시전\r\n30초 후 재사용 가능 / 전투 태세, 광폭 태세 필요\r\n\r\n다음 10회의 근접 공격은 주위의 적 1명을 추가로 공격합니다."
 	tree.talents[14].info.name = "무기 전문화"
