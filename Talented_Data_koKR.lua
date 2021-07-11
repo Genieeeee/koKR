@@ -513,7 +513,7 @@ if data then
 	tree.talents[18].info.name = "광기의 화염술사"
 	tree.talents[18].info.tips = "화염 주문의 극대화 적중률이 %d%%만큼 추가로 증가하고 마나 소비량이 %d%%만큼 감소합니다."
 	tree.talents[19].info.name = "발화"
-	tree.talents[19].info.tips = "즉시시전 / 3분 후 재사용 가능\r\n\r\n활성화되면 자신의 화염 공격 주문이 적중할 때마다 화염 공격 주문이 극대화 효과를 발휘할 확률이 10%%만큼 증가합니다. 3회 극대화 효과를 발휘할 때까지 지속됩니다."
+	tree.talents[19].info.tips = "즉시시전 / 3분 후 재사용 가능\r\n\r\n활성화되면 자신의 화염 공격 주문이 적중할 때마다 화염 공격 주문이 극대화 효과를 발휘할 확률이 10%만큼 증가합니다. 3회 극대화 효과를 발휘할 때까지 지속됩니다."
 	tree.talents[20].info.name = "타오르는 격노"
 	tree.talents[20].info.tips = "생명력이 20%% 미만인 적에 대해 모든 계열의 주문 공격력이 %d%%만큼 증가합니다."
 	tree.talents[21].info.name = "화염구 강화"
